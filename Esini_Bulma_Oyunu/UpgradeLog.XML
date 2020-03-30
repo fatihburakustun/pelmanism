@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="esini_bul">
+</Property><Property Name="Solution File" Value="C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul.suo">
+</Property><Property Name="Date" Value="10 Ocak 2014 Cuma">
+</Property><Property Name="Time" Value="18:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="esini_bul.sln" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul.sln">
+</Event><Event ErrorLevel="0" Project="" Source="esini_bul.suo" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul.suo">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\esini_bul.csproj" Description="Project file successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\esini_bul.csproj">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form1.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form1.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form1.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form2.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form2.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form2.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form3.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form3.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form3.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form4.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form4.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form4.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Program.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Program.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Properties\Settings.settings" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Question Block.ico" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Question Block.ico">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form1.resx" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form1.resx">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form2.resx" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form2.resx">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form3.resx" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form3.resx">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Form4.resx" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Form4.resx">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\Properties\Resources.resx" Description="File successfully backed up as C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\Backup\esini_bul\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="esini_bul" Source="esini_bul\esini_bul.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\esini_bul.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="esini_bul" Source="esini_bul\esini_bul.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="esini_bul.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="esini_bul.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="esini_bul" Source="esini_bul\esini_bul.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.exe
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.pdb
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\bin\Debug\esini_bul.exe
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\bin\Debug\esini_bul.pdb
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.Form1.resources
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.Form2.resources
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.Form3.resources
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.Form4.resources
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.Properties.Resources.resources
+C:\Users\ACER\Pictures\Desktop\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.csproj.GenerateResource.Cache
+C:\Users\ACER\Eski_Dosyalar\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.exe
+C:\Users\ACER\Eski_Dosyalar\Yeni klasör (2)\Esini_Bulma_Oyunu\esini_bul\obj\Debug\esini_bul.pdb
